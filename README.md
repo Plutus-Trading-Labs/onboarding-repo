@@ -20,6 +20,4 @@ NOTE: Before doing this task, you are required to understand the fundamentals of
 
 As always, referring back to resources and documentation is something that is key to becoming a well-rounded developer. You will be spending a lot of time learning how to use lines of code you aren't familar with, so please make sure to take the time to review our guidelines!
 
-PTL manages all documentation details through the Confluence page located <a href="https://plutustradinglabs.atlassian.net/wiki/spaces/PTL/pages/98452/The+Quant+Lab">here!</a>
-
-If there are any questions, please reach out to Srihari <a href="mailto:raman.sr@northeastern.edu">here!</a>
+PTL manages all documentation details through the Confluence page located <a href="https://plutustradinglabs.atlassian.net/wiki/spaces/PTL/pages/98452/The+Quant+Lab">here!</a>or on Discord!
