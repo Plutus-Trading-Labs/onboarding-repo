@@ -39,3 +39,7 @@ Include any relevant screenshots and/or GIFs of the changes you propose.
 ## Additional notes:
 
 Add any other details about the PR here.
+
+## Tags
+
+Add any tags that will link this to the ticket and close it!
