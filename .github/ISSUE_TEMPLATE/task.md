@@ -1,12 +1,3 @@
----
-name: Task
-about: Describes a task to complete
-title: "[TASK]"
-labels: ''
-assignees: ''
-
----
-
 ## Task Description
 **Describe what the task is**
 
