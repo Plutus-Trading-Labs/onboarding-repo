@@ -1,0 +1,11 @@
+# CODEOWNERS file
+
+# Define code owners for the repository
+
+# Configuration files - default to VP for review
+
+/.github @thealphacubicle
+
+# Tech Leads
+
+- @thealphacubicle
