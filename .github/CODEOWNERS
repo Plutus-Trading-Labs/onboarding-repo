@@ -5,7 +5,6 @@
 # Configuration files - default to VP for review
 
 /.github @thealphacubicle
-/.docs @thealphacubicle
 
 # Tech Leads
 
