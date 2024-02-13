@@ -25,6 +25,3 @@ PTL manages all documentation details through the Confluence page located <a hre
 ## Questions
 If there are any questions, please contact Srihari!
 
-```python
-def my_function():
-    print("Hello, world!")
